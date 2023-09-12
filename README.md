@@ -1,4 +1,4 @@
-# SecureLD Service Instance JSON-LD Context _(@dlinc/context-secureld-service-instance-context)_
+# SecureLD Service Instance JSON-LD Context _(@dlinc/context-secureld-service-instance)_
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/dogwoodlogic/context-secureld-service-instance/main.yml)](https://github.com/dogwoodlogic/context-secureld-service-instance/actions/workflow/main.yml)
 [![NPM Version](https://img.shields.io/npm/v/@dlinc/context-secureld-service-instance-context.svg)](https://npm.im/@dlinc/context-secureld-service-instance)
