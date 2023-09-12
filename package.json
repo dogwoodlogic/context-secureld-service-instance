@@ -1,6 +1,6 @@
 {
   "name": "@dlinc/context-secureld-service-instance",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SecureLD Service Instance JSON-LD context for JavaScript.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
