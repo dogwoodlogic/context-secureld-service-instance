@@ -1,7 +1,7 @@
 {
-  "name": "@digitalbazaar/FIXME-context",
+  "name": "@dlinc/context-secureld-service-instance-context",
   "version": "0.0.1",
-  "description": "FIXME JSON-LD context for JavaScript.",
+  "description": "SecureLD Service Instance JSON-LD context for JavaScript.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
   "files": [
@@ -13,24 +13,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalbazaar/FIXME-context"
+    "url": "https://github.com/dogwoodlogic/context-secureld-service-instance-context"
   },
   "bugs": {
-    "url": "https://github.com/digitalbazaar/FIXME-context/issues"
+    "url": "https://github.com/dogwoodlogic/context-secureld-service-instance-context/issues"
   },
   "author": {
-    "name": "Digital Bazaar, Inc.",
-    "email": "support@digitalbazaar.com",
-    "url": "https://digitalbazaar.com/"
+    "name": "Dogwood Logic, Inc."
   },
-  "homepage": "https://github.com/digitalbazaar/FIXME-context#readme",
+  "homepage": "https://github.com/dogwoodlogic/context-secureld-service-instance-context#readme",
   "license": "BSD-3-Clause",
   "keywords": [
     "JSON-LD context",
     "JSON-LD",
     "Linked Data",
-    "context",
-    "FIXME"
+    "context"
   ],
   "devDependencies": {
     "chai": "^4.3.7",

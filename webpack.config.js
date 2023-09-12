@@ -1,5 +1,5 @@
 /*!
- * Copyright (c) 2023 Digital Bazaar, Inc. All rights reserved.
+ * Copyright (c) 2023 Dogwood Logic, Inc. All rights reserved.
  */
 'use strict';
 module.exports = {

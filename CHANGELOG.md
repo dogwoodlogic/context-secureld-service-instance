@@ -1,4 +1,4 @@
-# @digitalbazaar/FIXME-context ChangeLog
+# @dlinc/context-secureld-service-instance-context ChangeLog
 
 ## 1.0.0 - TBD
 
