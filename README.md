@@ -1,17 +1,15 @@
-# SecureLD Service Instance JSON-LD Context _(@dlinc/context-secureld-service-instance)_
+# SecureLD Service Instance JSON-LD Context _(@secureld/service-instance-context)_
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/dogwoodlogic/context-secureld-service-instance/main.yml)](https://github.com/dogwoodlogic/context-secureld-service-instance/actions/workflow/main.yml)
-[![NPM Version](https://img.shields.io/npm/v/@dlinc/context-secureld-service-instance-context.svg)](https://npm.im/@dlinc/context-secureld-service-instance)
+[![NPM Version](https://img.shields.io/npm/v/@secureld/service-instance-context-context.svg)](https://npm.im/@secureld/service-instance-context)
 
 > A SecureLD Service Instance JSON-LD context for JavaScript.
 
 ## Table of Contents
 
-- [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
 - [Developing](#developing)
-- [Commercial Support](#commercial-support)
 - [License](#license)
 
 ## Install
@@ -20,22 +18,22 @@
 
 To install via NPM:
 
-```
-npm install @dlinc/context-secureld-service-instance
+```sh
+npm install @secureld/service-instance-context
 ```
 
 ## Usage
 
 ```js
 // ESM
-import * as ctx from '@digialbazaar/context-secureld-service-instance';
+import * as ctx from '@secureld/service-instance-context';
 // CommonJS
-const ctx = require('@dlinc/context-secureld-service-instance');
+const ctx = require('@secureld/service-instance-context');
 const {contexts, constants, appContextMap} = ctx;
 
 // Default context URL
 ctx.CONTEXT_URL
-// -> 'https://dogwoodlogic.github.io/context-secureld-service-instance/contexts/service-instance-v1.jsonld'
+// -> 'https://dogwoodlogic.github.io/...'
 
 // Default context data
 ctx.CONTEXT
@@ -52,6 +50,7 @@ applications.
 ## API
 
 The library exports the following properties:
+
 - `CONTEXT_URL`: Default context URL.
 - `CONTEXT`: Default context data.
 - `CBORLD_VALUE`: Default codec term map value for [CBOR-LD][].
